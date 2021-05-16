@@ -1,7 +1,7 @@
 # Backup do GLPI com Abertura de Chamado usando API
 Script de Backup do GLPI com parâmetros de abertura de chamado via API dentro do GLPI com dados do Backup para verificação das jobs.
 
-Este script foi desenvolvido pela equipa da Servicedesk Brasil para a comunidade GLPI com objetivo de prover um script de backup que salva todos os arquivos e banco de dados do sistema de Gestão de Serviços GLPI e depois de realizado insere os dados da execução deste backup no corpo de um chamado utilizando a API do sistema através de API _token_.
+Este script foi desenvolvido pela equipe da Servicedesk Brasil **(Danilo Motta e Danilo Santos)** para a comunidade GLPI com objetivo de prover um script de backup que salva todos os arquivos e banco de dados do sistema de Gestão de Serviços GLPI e depois de realizado insere os dados da execução deste backup no corpo de um chamado utilizando a API do sistema através de API _token_.
 
 O post com as instruções de como usar este script e configurar a API do GLPI você encontra no [Blog do nosso CTO - Arthur Schaefer](https://www.arthurschaefer.com.br/2021/05/backup-do-glpi-e-abertura-de-chamado-com-api/)
 
