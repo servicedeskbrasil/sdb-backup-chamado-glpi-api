@@ -13,3 +13,6 @@ O post com as instruções de como usar este script e configurar a API do GLPI v
 - 📘💼 [Treinamentos da Servicedesk Brasil](https://servicedeskbrasil.maestrus.com/treinamentos) - Aqui você encontra os treinamentos que temos disponíveis na **Servicedesk Brasil**
 - ✍🏼 [Blog do Arthur Schaefer | CTO](https://www.arthurschaefer.com.br)
 - 📫 Quer saber como nos contatar? Entre no [formulário de contato aqui](http://contato.arthurschaefer.com.br/marketplace/formcreator/front/formdisplay.php?id=1) feito no [GLPI](https://github.com/arthurrschaefer/glpi) e manda bala!
+
+## Referências citadas no vídeo
+[Script de Backup do **Thiago Passamani**](http://www.thiagopassamani.com.br/blog/script-backup-do-glpi-mysql-e-diretorios-para-linux.html)
