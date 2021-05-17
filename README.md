@@ -16,3 +16,4 @@ O post com as instruções de como usar este script e configurar a API do GLPI v
 
 ## Referências citadas no vídeo
 [Script de Backup do **Thiago Passamani**](http://www.thiagopassamani.com.br/blog/script-backup-do-glpi-mysql-e-diretorios-para-linux.html)
+[Script de Backup do **Allan Lopes Prado**](https://github.com/allanlopesprado/Backup-GLPI)
