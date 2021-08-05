@@ -5,8 +5,8 @@
 #API GLPI Acessos
 
 GLPI_URL_API='https://travessia.glpibrasil.com.br'
-GLPI_APP_TOKEN='GZU5W7PEadpt9arPgFXt8LGsYiC7GnSsuOkxNHY5';
-GLPI_USER_TOKEN='3AU4DS1s1Dcjy09Y5EkSktc2mm3tqiwSimuJHfPf';
+GLPI_APP_TOKEN='coloqueoseu';
+GLPI_USER_TOKEN='coloqueoseu';
 GLPI_ID_ENTIDADE=0;						#ID da entidade de abertura do chamado
 GLPI_ID_CATEGORIA=148;						#ID da categoria
 GLPI_ID_TIPO=2;							#Tipo de chamado [1=Incidente, 2=Requisição]
