@@ -10,7 +10,7 @@ O post com as instruções de como usar este script e configurar a API do GLPI v
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/servicedeskbra)](https://www.linkedin.com/company/servicedesk-brasil)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/ServicedeskBrasil)](https://www.youtube.com/ArthurSchaefer)
 
-- 📘💼 [Treinamentos da Servicedesk Brasil](https://servicedeskbrasil.maestrus.com/treinamentos) - Aqui você encontra os treinamentos que temos disponíveis na **Servicedesk Brasil**
+- 📘💼 [Treinamentos da Servicedesk Brasil](https://www.servicedeskbrasil.com.br/treinamento) - Aqui você encontra os treinamentos que temos disponíveis na **Servicedesk Brasil**
 - ✍🏼 [Blog do Arthur Schaefer | CTO](https://www.arthurschaefer.com.br)
 - 📫 Quer saber como nos contatar? Entre no [formulário de contato aqui](http://contato.arthurschaefer.com.br/marketplace/formcreator/front/formdisplay.php?id=1) feito no [GLPI](https://github.com/arthurrschaefer/glpi) e manda bala!
 
